@@ -1,3 +1,4 @@
+# Psychovalence
 *From the Greek **psychē** (mind, soul) and Latin **valeō** (to be strong, healthy)*
 
 The ability of an individual to resist, endure, and recover from stress and emotional damage; mental or psychological strength.
